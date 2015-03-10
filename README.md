@@ -25,10 +25,10 @@ Turn your Hexo into a Wiki!
 1) install theme:
 
 ``` sh
-$ git clone https://github.com/wzpan/hexo-theme-wixo.git themes/wixo
+$ git clone https://github.com/zhiyue/hexo-theme-wixo.git themes/wixo
 ```
 
-2) install [hexo-tag-bootstrap](https://github.com/wzpan/hexo-tag-bootstrap):
+2) install [hexo-tag-bootstrap](https://github.com/zhiyue/hexo-tag-bootstrap):
 
 ``` sh
 $ npm install hexo-tag-bootstrap --save
@@ -72,7 +72,7 @@ toc: true
 
 ## Todo ##
 
-See [TODO](https://github.com/wzpan/hexo-theme-wixo/wiki/TODO).
+See [TODO](https://github.com/zhiyue/hexo-theme-wixo/wiki/TODO).
 
 ## License ##
 

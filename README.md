@@ -3,9 +3,9 @@ Hexo-Theme-Wixo
 
 Turn your Hexo into a Wiki!
 
-* [Demo](http://hahack.tk/hexo-theme-wixo/)
-* [Q&A](http://hahack.tk/hexo-theme-wixo/Docs/qna/)
-* [Tag Plugins](http://hahack.tk/hexo-theme-wixo/Docs/tag-plugins/)
+* [Demo](http://wzpan.github.io/hexo-theme-wixo/)
+* [Q&A](http://wzpan.github.io/hexo-theme-wixo/Docs/qna/)
+* [Tag Plugins](http://wzpan.github.io/hexo-theme-wixo/Docs/tag-plugins/)
 
 ## Features ##
 
@@ -48,12 +48,16 @@ $ git pull
 ## Configuration ##
 
 ```
+rss: atom.xml
 fancybox: true
 favicon: favicon.png
+fold: true
 google_analytics:
 ```
 
+* **rss** - RSS link
 * **fancybox** - enable [Fancybox](http://fancyapps.com/fancybox/)
+* **fold** - whether to fold all the notebooks
 * **google_analytics** - Google Analytics ID
 
 ## Front-Matter ##

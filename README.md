@@ -7,6 +7,11 @@ Turn your Hexo into a Wiki!
 * [Q&A](http://wzpan.github.io/hexo-theme-wixo/Docs/qna/)
 * [Tag Plugins](http://wzpan.github.io/hexo-theme-wixo/Docs/tag-plugins/)
 
+## Requirements ##
+
+* Hexo >= 3.0
+* [hexo-tag-bootstrap](https://github.com/wzpan/hexo-tag-bootstrap) >= 0.0.8 (optional)
+
 ## Features ##
 
 * **Simple** - keep it simple and stupid;
@@ -28,7 +33,9 @@ Turn your Hexo into a Wiki!
 $ git clone https://github.com/zhiyue/hexo-theme-wixo.git themes/wixo
 ```
 
+
 2) install [hexo-tag-bootstrap](https://github.com/zhiyue/hexo-tag-bootstrap):
+
 
 ``` sh
 $ npm install hexo-tag-bootstrap --save
@@ -74,9 +81,11 @@ toc: true
 ---
 ```
 
+
 ## Todo ##
 
 See [TODO](https://github.com/zhiyue/hexo-theme-wixo/wiki/TODO).
+
 
 ## License ##
 

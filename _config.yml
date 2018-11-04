@@ -9,3 +9,6 @@ search:
   path: search.xml
   field: all
 pin: Info
+github_profile_card:
+  max: 10
+  username: CTFTraining

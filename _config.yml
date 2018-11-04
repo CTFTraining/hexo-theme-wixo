@@ -8,3 +8,4 @@ inverse_sort: false
 search:
   path: search.xml
   field: all
+pin: Info
